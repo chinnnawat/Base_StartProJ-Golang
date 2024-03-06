@@ -1,0 +1,92 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@example.com",
+        "username": "johndoe",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile1.jpg"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "janesmith@example.com",
+        "username": "janesmith",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile2.jpg"
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Johnson",
+        "email": "michaeljohnson@example.com",
+        "username": "michaeljohnson",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile3.jpg"
+    },
+    {
+        "firstName": "Emma",
+        "lastName": "Williams",
+        "email": "emmawilliams@example.com",
+        "username": "emmawilliams",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile4.jpg"
+    },
+    {
+        "firstName": "David",
+        "lastName": "Jones",
+        "email": "davidjones@example.com",
+        "username": "davidjones",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile5.jpg"
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Brown",
+        "email": "oliviabrown@example.com",
+        "username": "oliviabrown",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile6.jpg"
+    },
+    {
+        "firstName": "Liam",
+        "lastName": "Davis",
+        "email": "liamdavis@example.com",
+        "username": "liamdavis",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile7.jpg"
+    },
+    {
+        "firstName": "Sophia",
+        "lastName": "Miller",
+        "email": "sophiamiller@example.com",
+        "username": "sophiamiller",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile8.jpg"
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Wilson",
+        "email": "noahwilson@example.com",
+        "username": "noahwilson",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile9.jpg"
+    },
+    {
+        "firstName": "Isabella",
+        "lastName": "Moore",
+        "email": "isabellamoore@example.com",
+        "username": "isabellamoore",
+        "password": "Password123",
+        "mobileNumber": "1234567890",
+        "pictureUrl": "https://example.com/profile10.jpg"
+    }
+]
